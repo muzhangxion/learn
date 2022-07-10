@@ -1,2 +1,2 @@
-# dagege
-随便开的
+# learn
+原生js学习例子
