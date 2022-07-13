@@ -3,5 +3,5 @@ window.onload = function(){
 };
 
 function func1() {
-    alert(1)
+    console.log(111)
 }
